@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-ara",NAME="Arabic Audio",LANGUAGE="ara",DEFAULT=YES,AUTOSELECT=YES,URI="https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/manifest/audio1/192kbps/audio.m3u8"
+
 #EXT-X-STREAM-INF:BANDWIDTH=2592000,RESOLUTION=1920x1080,CODECS="avc1.42E01E,mp4a.40.2",AUDIO="audio-ara"
-https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_47.m3u8
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/manifest/video/720p1750kbps/video.m3u8
