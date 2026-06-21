@@ -1,4 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="LIVE1" tvg-name="LIVE STREAM 1" group-title="LIVE",LIVE STREAM 1
-http://145.239.5.177/559/mpegts
+https://103.205.133.70/tsn1/index.m3u8
