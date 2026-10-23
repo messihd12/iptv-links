@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-ara",NAME="Arabic Audio",LANGUAGE="ara",DEFAULT=YES,AUTOSELECT=YES,URI="https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index__1.m3u8"
+
+#EXT-X-STREAM-INF:BANDWIDTH=2592000,RESOLUTION=1920x1080,CODECS="avc1.42E01E,mp4a.40.2",AUDIO="audio-ara"
+https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index__4.m3u8
